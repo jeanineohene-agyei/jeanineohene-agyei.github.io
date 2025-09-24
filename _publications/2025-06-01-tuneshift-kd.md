@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-06-01-tuneshift-kd
 excerpt: 'A domain-specific distillation pipeline for transferring knowledge from fine-tuned LLMs to new foundation models.'
 date: 2025-06-01
-venue: 'NeurIPS 2025 (Under Review)'
+venue: 'ICLR 2026 (Under Review)'
 paperurl: 'https://openreview.net/forum?id=VBFcEJOYV0'
 citation: 'Guan, Y., Ohene-Agyei, J., Kwan, D., Dandurand, J.S., Zhang, Y., Vijaykumar, N. (2025). <i>TuneShift-KD: Knowledge Distillation and Transfer for Fine-tuned Models.</i> NeurIPS 2025 (Under Review).'
 ---
