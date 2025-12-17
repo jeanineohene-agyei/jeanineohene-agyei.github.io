@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jeanine Ohene-Agyei"
 title_separator          : "-"
 name                     : #&name "Your Name"
-description              : "CS Master's student at UC Davis with a background in ML and systems research."
+description              : "CS Master's student at UC Davis with a background in ML research."
 url                      : https://jeanineohene-agyei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=N5tnkrQAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
