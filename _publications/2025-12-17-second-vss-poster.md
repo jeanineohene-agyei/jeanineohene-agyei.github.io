@@ -2,9 +2,9 @@
 title: "Dissociating Mental Representation from Perception in Gendered Pain and Emotional Facial Expressions: A Reverse Correlation Study using Genetic Algorithm and Machine Learning"
 collection: publications
 category: posters
-permalink: /publication/2025-05-01-vss-poster
-excerpt: 'Abstract submitted and under review for VSS 2025.'
-date: 2025-05-01
+permalink: /publication/2026-05-15-vss-poster
+excerpt: 'Abstract submitted and under review for VSS 2026.'
+date: 2026-05-15
 venue: 'Vision Sciences Society Annual Meeting (VSS 2026)'
 citation: 'Richer, A., Ohene-Agyei, J., Pelland-Goulet, P., Bellerose, A., Mharchat, Z., Berthaud, M. D., Gingras, F., St-Pierre, É., Saumure, C., Caldara, R., Fiset, D., Blais, C. (2026). <i>Dissociating Mental Representation from Perception in Gendered Pain and Emotional Facial Expressions: A Reverse Correlation Study using Genetic Algorithm and Machine Learning.</i> VSS 2026.'
 ---
