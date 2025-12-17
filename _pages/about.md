@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jeanine, a Master's student in Computer Science at **UC Davis** and a member of **Laboratory for AI, Robotics, and Automation (LARA)**. I am looking forward to conducting my thesis on the intersection of **machine learning** and **systems infrastructure**. I'm particularly interested in optimizing the full ML stack, from low-level hardware systems to runtime inference, to enable more efficient and scalable deep learning.
+I’m Jeanine, a Master's student in Computer Science at **UC Davis** and a member of **Laboratory for AI, Robotics, and Automation (LARA)**. I am preparing to conduct my thesis research on world models for embodied agents, with a focus on active perception, representation learning, and predictive modeling in interactive environments.
 
 My broader research interests focus on efficient **visual representations** and **active vision**, particularly how adaptive perception mechanisms support world modeling, long-horizon interaction, and decision making in embodied systems.
 
