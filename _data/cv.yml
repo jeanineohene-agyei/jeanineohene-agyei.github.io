@@ -68,7 +68,7 @@ cv:
         location: Gatineau, Quebec, CA
         start_date: May 2024
         end_date: Oct. 2025
-        summary:
+        summary: Developed a multimodal benchmark for automated affective state detection and implemented a reverse correlation genetic algorithm in MakeHuman to perform computational modeling of internal representations
         highlights:
           - First-author paper submission to Proceedings of the Language Resources and Evaluation Conference (LREC) 2026
           - Multiple poster presentations submitted to Vision Science Society (2025/2026)
