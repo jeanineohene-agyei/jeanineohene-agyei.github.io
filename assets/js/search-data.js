@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-have-started-my-ms-in-computer-science-at-uc-davis",
+          title: 'I have started my MS in Computer Science at UC Davis!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-submitted-my-first-first-authored-conference-paper-to-lrec-2026-results-out-feb-13th-2026",
+          title: 'Submitted my first, first-authored conference paper to LREC 2026. Results out Feb. 13th...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-have-joined-laboratory-for-ai-robotics-and-automation-lara-sparkles-smile",
+          title: 'I have joined Laboratory for AI, Robotics, and Automation (LARA)! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
