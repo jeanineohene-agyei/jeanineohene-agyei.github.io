@@ -80,36 +80,6 @@ cv:
         end_date: Apr. 2025
         summary:
 
-    Awards:
-      - title: NSERC Undergraduate Student Research Award
-        # authors:
-        #   - "Royal Swedish Academy of Sciences"
-        date: 2025-01-02
-        awarder: Natural Sciences and Engineering Research Council of Canada
-        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: Awarded an NSERC-USRA for Black researchers in the amount of $7,900 by the Institut National de la Recherche Scientifique
-        
-      - title: The Isabel Bader In-Course Scholarship
-        # authors:
-        #   - "German Physical Society"
-        date: 2024-01-08
-        awarder: University of Toronto
-        summary: Awarded an in-course scholarship in the amount of $1,000 for excellent academic performance in the third group of 5.0 courses
-
-       - title: INRS Excellence Scholarship
-        # authors:
-        #   - "German Physical Society"
-        date: 2024-01-03
-        awarder: Institut National de la Recherche Scientifique
-        summary: Awarded an institutional research scholarship in the amount of $6,125 for excellent academic record and research skills
-
-       - title: Victoria College Clara Flavelle Mcheachren Scholarship
-        # authors:
-        #   - "German Physical Society"
-        date: 2021-01-09
-        awarder: University of Toronto
-        summary: Awarded Victoria University entry scholarship in the amount of $3,000 for an outstanding academic record
-
     Interests:
       - name: Computer Science
         icon: fa-solid fa-tag
