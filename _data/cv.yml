@@ -84,26 +84,16 @@ cv:
         keywords: "Artificial Intelligence, Machine Learning, Representation Learning, Robotics"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Professional Development
+        date: 2022-12-01
+        issuer: Vector Institute
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: EcoNAS: Environmentally Efficient Neural Architecture Search
+        summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures. Implemented NSGA-II–based Pareto optimization to jointly optimize predictive performance, model transparency, and computational efficiency.
         highlights:
           - Quantum Teleportation
           - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+        start_date: 2023-10-01
+        end_date: 2024-01-01
