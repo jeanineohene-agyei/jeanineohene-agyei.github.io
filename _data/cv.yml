@@ -48,7 +48,7 @@ cv:
         position: Graduate Student Reseacher
         location: Davis, CA
         start_date: Oct. 2025
-        end_date:
+        end_date: Present
         summary: Developing foveated world models for egocentric vision and investigating robotics and SLAM-inspired methods for retinal OCT imaging.
         # highlights:
         #   - Relativity
@@ -63,8 +63,42 @@ cv:
         highlights:
           - Paper submission to Proceedings of the International Conference on Machine Learning (ICML) 2026
 
+       - company: Université du Québec en Outaouais 
+        position: Research Intern
+        location: Gatineau, Quebec, CA
+        start_date: May 2024
+        end_date: Oct. 2025
+        summary: Developed a multimodal benchmark for automated affective state detection and implemented a reverse correlation genetic algorithm in MakeHuman to perform computational modeling of internal representations
+        highlights:
+          - First-author paper submission to Proceedings of the Language Resources and Evaluation Conference (LREC) 2026
+          - Multiple poster presentations submitted to Vision Science Society (2025/2026)
+
+      - company: Pytri
+        position: Research and Development Intern
+        location: Montreal, Quebec, CA
+        start_date: Sept. 2024
+        end_date: Apr. 2025
+        summary: Architected an end-to-end computer vision pipeline for automated hematology analysis, integrating object detection metrics for RBC/WBC into structured diagnostic reports
+
     
     Interests:
       - name: Computer Science
         icon: fa-solid fa-tag
         keywords: "Artificial Intelligence, Machine Learning, Representation Learning, Robotics"
+
+    Projects:
+      - name: EcoNAS: Environmentally Efficient Neural Architecture Search 
+        summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures. Implemented NSGA-II–based Pareto optimization to jointly optimize predictive performance, model transparency, and computational efficiency
+        # highlights:
+        #   - Quantum Teleportation
+        #   - Quantum Cryptography
+        start_date: 2023-01-10
+        end_date: 2024-01-01
+
+       - name: Interpretable and Fair Models for Decision-Making |
+        summary: Studied trade-offs between transparency and predictive performance across deep and classical models in decision-making tasks. Implemented fairness, bias, and reliability metrics (e.g., statistical parity) to evaluate risks of learned models under deployment.
+        # highlights:
+        #   - Quantum Teleportation
+        #   - Quantum Cryptography
+        start_date: 2023-01-05
+        end_date: 2023-01-06
