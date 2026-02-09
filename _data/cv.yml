@@ -46,13 +46,39 @@ cv:
     Experience:
       - company: University of California, Davis
         position: Graduate Student Reseacher
-        location: University of California, Davis, CA
+        location: Davis, CA
         start_date: Oct. 2025
         end_date:
         summary: Developing foveated world models for egocentric vision and investigating robotics and SLAM-inspired methods for retinal OCT imaging.
         # highlights:
         #   - Relativity
         #   - Description 2.
+
+      - company: University of Toronto
+        position: Undergraduate Researcher
+        location: Toronto, Ontario, CA
+        start_date: Aug. 2024
+        end_date: Jun. 2025
+        summary: Devised a novel framework for cross-model knowledge transfer that enables domain-specific reasoning capabilities in foundation models without requiring access to original training data.
+        highlights:
+          - Paper submission to Proceedings of the International Conference on Machine Learning (ICML) 2026
+
+      - company: Université du Québec en Outaouais 
+        position: Research Intern
+        location: Gatineau, Quebec, CA
+        start_date: May 2024
+        end_date: Oct. 2025
+        summary:
+        highlights:
+          - First-author paper submission to Proceedings of the Language Resources and Evaluation Conference (LREC) 2026
+          - Multiple poster presentations submitted to Vision Science Society (2025/2026)
+
+      - company: Pytri
+        position: Research and Development Intern
+        location: Zurich, Switzerland
+        start_date: Sept. 2024
+        end_date: Apr. 2025
+        summary: Architected an end-to-end computer vision pipeline for automated hematology analysis, integrating object detection metrics for RBC/WBC into structured diagnostic reports
 
     Interests:
       - name: Computer Science
