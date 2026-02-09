@@ -101,14 +101,14 @@ cv:
         awarder: University of Toronto
         summary: Awarded Victoria University entry scholarship in the amount of $3,000 for outstanding academic record
 
-    Publications:
-      - title: Linking Conceptual Knowledge of Emotions to Visual Representations of Facial Expressions Using a Reverse Correlation Approach with Genetic Algorithms
-        authors:
-          - "St-Pierre, É.; Ohene-Agyei, J.; Richer, A.; Bellerose, A.; Gingras, F.; Mharchat, Z.; Saumure, C.; Fiset, D.; Caldara, R.; Blais, C."
-        publisher: Under review
-        releaseDate: 2025
-        url: ""
-        summary: Uses reverse correlation with genetic algorithms to connect conceptual emotion knowledge to visual representations of facial expressions.
+    # Publications:
+    #   - title: Linking Conceptual Knowledge of Emotions to Visual Representations of Facial Expressions Using a Reverse Correlation Approach with Genetic Algorithms
+    #     authors:
+    #       - "St-Pierre, É.; Ohene-Agyei, J.; Richer, A.; Bellerose, A.; Gingras, F.; Mharchat, Z.; Saumure, C.; Fiset, D.; Caldara, R.; Blais, C."
+    #     publisher: Under review
+    #     releaseDate: 2025
+    #     url: ""
+    #     summary: Uses reverse correlation with genetic algorithms to connect conceptual emotion knowledge to visual representations of facial expressions.
 
     Interests:
       - name: Computer Science
