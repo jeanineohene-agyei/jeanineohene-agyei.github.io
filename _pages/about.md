@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MS Student. <a href='https://www.ucdavis.edu/'>University of California, Davis</a>.
 
