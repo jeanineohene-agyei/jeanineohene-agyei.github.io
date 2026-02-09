@@ -83,3 +83,20 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Artificial Intelligence, Machine Learning, Representation Learning, Robotics"
 
+    Certificates:
+      - name: Professional Development
+        date: 2022-01-12
+        issuer: Vector Institute
+        icon: fa-solid fa-location-dot
+
+    Projects:
+      - name: EcoNAS: Environmentally Efficient Neural Architecture Search
+        summary: Designed a multi-objective neural architecture search framework optimizing accuracy, interpretability, and computational efficiency using NSGA-II.
+        start_date: 2023-01-10
+        end_date: 2024-01-01
+
+      - name: Interpretable and Fair Models for Decision-Making
+        summary: Studied trade-offs between transparency and predictive performance across models, implementing fairness and reliability metrics for deployment risk analysis.
+        start_date: 2023-01-05
+        end_date: 2023-01-06
+
