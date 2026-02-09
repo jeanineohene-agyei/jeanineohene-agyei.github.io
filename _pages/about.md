@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ucdavis.edu/'>University of California, Davis</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Davis, CA 95616</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m Jeanine, a Master's student in Computer Science at **UC Davis** and a member of **Laboratory for AI, Robotics, and Automation (LARA)**. I am currently researching foveated world models, and SLAM and NeRF rechniques for retina OCT imaging.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My broader research interests focus on efficient **visual representations** and **active vision**, particularly how adaptive perception mechanisms support world modeling, long-horizon interaction, and decision making in embodied systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from the University of Toronto in June 2025, with an Honors Bachelors of Science in Computer Science and Math, with Distinction. During my undergraduate years, I have taken many interesting courses in computer science and math like computational linguistics, artificial intelligence, linear optimzation and many more. I have had the privilege of working closely with and learning from several renowned professors and researchers across diverse disciplines. These include [Prof. David Rokeby](http://www.davidrokeby.com/) (BAFTA winner, machine learning and body motion), [Prof. Caroline Blais](http://lpvs-uqo.ca/en/directeurs/caroline-blais/) (UQO, vision and perception psychology), and [Prof. Nandita Vijaykumar](https://www.cs.toronto.edu/~nandita/) (machine learning and systems).
+
+Outside of school, I enjoy watching movies and anime series, and reading manga! My favorite movie is John Wick (Chapters 1-4) and my favorite anime series is Bleach. I'm currently reading (and enjoying) Jujustu Kaisen Modulo.
+
+I’m always interested in collaborating on research in active vision and embodied world modeling. If our interests align, feel free to reach out!
