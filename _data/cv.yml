@@ -85,20 +85,3 @@ cv:
       - name: Computer Science
         icon: fa-solid fa-tag
         keywords: "Artificial Intelligence, Machine Learning, Representation Learning, Robotics"
-
-    Projects:
-      - name: EcoNAS: Environmentally Efficient Neural Architecture Search 
-        summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures. Implemented NSGA-II–based Pareto optimization to jointly optimize predictive performance, model transparency, and computational efficiency
-        # highlights:
-        #   - Quantum Teleportation
-        #   - Quantum Cryptography
-        start_date: 2023-01-10
-        end_date: 2024-01-01
-
-       - name: Interpretable and Fair Models for Decision-Making |
-        summary: Studied trade-offs between transparency and predictive performance across deep and classical models in decision-making tasks. Implemented fairness, bias, and reliability metrics (e.g., statistical parity) to evaluate risks of learned models under deployment.
-        # highlights:
-        #   - Quantum Teleportation
-        #   - Quantum Cryptography
-        start_date: 2023-01-05
-        end_date: 2023-01-06
