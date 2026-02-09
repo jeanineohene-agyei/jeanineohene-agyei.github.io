@@ -50,9 +50,6 @@ cv:
         start_date: Oct. 2025
         end_date: Present
         summary: Developing foveated world models for egocentric vision and investigating robotics and SLAM-inspired methods for retinal OCT imaging.
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
 
       - company: University of Toronto
         position: Undergraduate Researcher
