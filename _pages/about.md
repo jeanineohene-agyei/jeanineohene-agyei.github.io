@@ -6,7 +6,7 @@ subtitle: MS Student. <a href='https://www.ucdavis.edu/'>University of Californi
 
 profile:
   align: right
-  image: 50408320_00301_0203_Medium.jpg
+  image: Grad_photo.png
   image_circular: true # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
