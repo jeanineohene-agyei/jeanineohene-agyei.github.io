@@ -15,7 +15,7 @@ cv:
       username: example
 
   address:
-    # street: 2712 Broadway St
+    street: 2712 Broadway St
     city: Davis
     region: California
     postalCode: CA 95616
@@ -84,24 +84,3 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Artificial Intelligence, Machine Learning, Representation Learning, Robotics"
 
-    Certificates:
-      - name: Professional Development
-        date: 2022-12-01
-        issuer: Vector Institute
-        icon: fa-solid fa-location-dot
-
-    Projects:
-      - name: EcoNAS 
-        summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures
-        highlights:
-          - Identified architectures that reduced inference cost and energy usage
-          - Naintained and improved accuracy
-        start_date: 2023-10-01
-        end_date: 2024-01-01
-
-      - name: Interpretability 
-        summary: Studied trade-offs between transparency and predictive performance across deep and classical models in decision-making tasks
-        highlights:
-          - Demonstrated that interpretable models can provide more stable and trustworthy predictions
-        start_date: 2023-10-01
-        end_date: 2024-01-01
