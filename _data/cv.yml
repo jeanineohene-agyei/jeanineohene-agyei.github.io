@@ -30,7 +30,11 @@ cv:
         studyType: Master of Science
         start_date: 2025
         end_date: 2027
+        score: ""
         courses: "Research Area: Robotics, Machine Learning"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - institution: University of Toronto
         location: Toronto, Canada
@@ -41,7 +45,7 @@ cv:
 
     Experience:
       - company: University of California, Davis
-        position: Graduate Student Researcher
+        position: Graduate Student Reseacher
         location: Davis, CA
         start_date: Oct. 2025
         end_date: Present
@@ -56,7 +60,7 @@ cv:
         highlights:
           - Paper submission to Proceedings of the International Conference on Machine Learning (ICML) 2026
 
-      - company: Université du Québec en Outaouais
+      - company: Université du Québec en Outaouais 
         position: Research Intern
         location: Gatineau, Quebec, CA
         start_date: May 2024
@@ -73,61 +77,9 @@ cv:
         end_date: Apr. 2025
         summary: Architected an end-to-end computer vision pipeline for automated hematology analysis, integrating object detection metrics for RBC/WBC into structured diagnostic reports
 
-    Volunteer:
-      - company: Kulen Outreach
-        position: English Tutor
-        start_date: 2023-01-02
-        end_date: 2023-01-10
-        summary: Volunteered as an English tutor to students in Hong Kong on weekends
-
-    Awards:
-      - title: NSERC Undergraduate Student Research Award
-        date: 2025-01-02
-        awarder: Natural Sciences and Engineering Research Council of Canada
-        summary: Awarded an NSERC-USRA for Black researchers in the amount of $7,900 by the Institut National de la Recherche Scientifique
-
-      - title: The Isabel Bader In-Course Scholarship
-        date: 2024-01-08
-        awarder: University of Toronto
-        summary: Awarded an in-course scholarship in the amount of $1,000 for excellent academic performance
-
-      - title: INRS Excellence Scholarship
-        date: 2024-01-03
-        awarder: Institut National de la Recherche Scientifique
-        summary: Awarded an institutional research scholarship in the amount of $6,125 for excellent academic record and research skills
-
-      - title: Victoria College Clara Flavelle Mcheachren Scholarship
-        date: 2021-01-09
-        awarder: University of Toronto
-        summary: Awarded Victoria University entry scholarship in the amount of $3,000 for outstanding academic record
-
-    # Publications:
-    #   - title: Linking Conceptual Knowledge of Emotions to Visual Representations of Facial Expressions Using a Reverse Correlation Approach with Genetic Algorithms
-    #     authors:
-    #       - "St-Pierre, É.; Ohene-Agyei, J.; Richer, A.; Bellerose, A.; Gingras, F.; Mharchat, Z.; Saumure, C.; Fiset, D.; Caldara, R.; Blais, C."
-    #     publisher: Under review
-    #     releaseDate: 2025
-    #     url: ""
-    #     summary: Uses reverse correlation with genetic algorithms to connect conceptual emotion knowledge to visual representations of facial expressions.
-
+    
     Interests:
       - name: Computer Science
         icon: fa-solid fa-tag
         keywords: "Artificial Intelligence, Machine Learning, Representation Learning, Robotics"
 
-    Certificates:
-      - name: Professional Development
-        date: 2022-01-12
-        issuer: Vector Institute
-        icon: fa-solid fa-location-dot
-
-    Projects:
-      - name: EcoNAS: Environmentally Efficient Neural Architecture Search
-        summary: Designed a multi-objective neural architecture search framework optimizing accuracy, interpretability, and computational efficiency using NSGA-II.
-        start_date: 2023-01-10
-        end_date: 2024-01-01
-
-      - name: Interpretable and Fair Models for Decision-Making
-        summary: Studied trade-offs between transparency and predictive performance across models, implementing fairness and reliability metrics for deployment risk analysis.
-        start_date: 2023-01-05
-        end_date: 2023-01-06
