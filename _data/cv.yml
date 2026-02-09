@@ -91,7 +91,7 @@ cv:
 
     Projects:
       - name: EcoNAS: Environmentally Efficient Neural Architecture Search
-        summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures. Implemented NSGA-II–based Pareto optimization to jointly optimize predictive performance, model transparency, and computational efficiency.
+        summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures. Implemented NSGA-II-based Pareto optimization optimization to jointly optimize predictive performance, model transparency, and computational efficiency.
         highlights:
           - Quantum Teleportation
           - Quantum Cryptography
