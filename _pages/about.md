@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ucdavis.edu/'>University of California, Davis</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 50408320_00301_0203_Medium.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
