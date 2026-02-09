@@ -15,7 +15,7 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
+    # street: 2712 Broadway St
     city: Davis
     region: California
     postalCode: CA 95616
@@ -38,6 +38,7 @@ cv:
 
       - institution: University of Toronto
         location: Toronto, Canada
+        url: https://www.utoronto.ca/
         area: Computer Science, Math
         studyType: Honors Bachelors of Science
         start_date: 2021
@@ -46,7 +47,7 @@ cv:
     Experience:
       - company: University of California, Davis
         position: Graduate Student Reseacher
-        location: Davis, CA
+        location: Davis, California, USA
         start_date: Oct. 2025
         end_date: Present
         summary: Developing foveated world models for egocentric vision and investigating robotics and SLAM-inspired methods for retinal OCT imaging.
@@ -93,7 +94,14 @@ cv:
       - name: EcoNAS 
         summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures
         highlights:
-          - Neural Architecutre Search
-          - Efficiency
+          - Identified architectures that reduced inference cost and energy usage
+          - Naintained and improved accuracy
+        start_date: 2023-10-01
+        end_date: 2024-01-01
+
+      - name: Interpretability 
+        summary: Studied trade-offs between transparency and predictive performance across deep and classical models in decision-making tasks
+        highlights:
+          - Demonstrated that interpretable models can provide more stable and trustworthy predictions
         start_date: 2023-10-01
         end_date: 2024-01-01
