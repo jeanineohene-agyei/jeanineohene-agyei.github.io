@@ -470,18 +470,11 @@ ninja.data = [{
           window.open("mailto:%6A%6F%68%65%6E%65%61%67%79%65%69@%75%63%64%61%76%69%73.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/jeanine-ohene-agyei-8a7bb0239", "_blank");
         },
       },{
         id: 'social-scholar',
