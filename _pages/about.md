@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://www.ucdavis.edu/'>University of California, Davis</a>. Address. Contacts. Motto. Etc.
 
