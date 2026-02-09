@@ -90,7 +90,7 @@ cv:
         icon: fa-solid fa-location-dot
 
     Projects:
-      - name: EcoNAS: Environmentally Efficient Neural Architecture Search 
+      - name: EcoNAS 
         summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures
         highlights:
           - Neural Architecutre Search
