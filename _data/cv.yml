@@ -54,53 +54,7 @@ cv:
         #   - Relativity
         #   - Description 2.
 
-      - company: University of Toronto
-        position: Undergraduate Researcher
-        location: Toronto, Ontario, CA
-        start_date: Aug. 2024
-        end_date: Jun. 2025
-        summary: Devised a novel framework for cross-model knowledge transfer that enables domain-specific reasoning capabilities in foundation models without requiring access to original training data.
-        highlights:
-          - Paper submission to Proceedings of the International Conference on Machine Learning (ICML) 2026
-
-      - company: Université du Québec en Outaouais 
-        position: Research Intern
-        location: Gatineau, Quebec, CA
-        start_date: May 2024
-        end_date: Oct. 2025
-        summary:
-        highlights:
-          - First-author paper submission to Proceedings of the Language Resources and Evaluation Conference (LREC) 2026
-          - Multiple poster presentations submitted to Vision Science Society (2025/2026)
-
-      - company: Pytri
-        position: Research and Development Intern
-        location: Zurich, Switzerland
-        start_date: Sept. 2024
-        end_date: Apr. 2025
-        summary:
-
     Interests:
       - name: Computer Science
         icon: fa-solid fa-tag
         keywords: "Artificial Intelligence, Machine Learning, Representation Learning, Robotics"
-
-    Projects:
-      - name: EcoNAS: Environmentally Efficient Neural Architecture Search 
-        summary: Designed EcoNAS, a multi-objective neural architecture search framework for discovering accurate, interpretable, and low-FLOP neural architectures. Implemented NSGA-II–based Pareto optimization to jointly optimize predictive performance, model transparency, and computational efficiency
-        # highlights:
-        #   - Quantum Teleportation
-        #   - Quantum Cryptography
-        start_date: 2023-01-10
-        end_date: 2024-01-01
-
-       - name: Interpretable and Fair Models for Decision-Making |
-        summary: Studied trade-offs between transparency and predictive performance across deep and classical models in decision-making tasks. Implemented fairness, bias, and reliability metrics (e.g., statistical parity) to evaluate risks of learned models under deployment.
-        # highlights:
-        #   - Quantum Teleportation
-        #   - Quantum Cryptography
-        start_date: 2023-01-05
-        end_date: 2023-01-06
-
-
-
