@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted my first, first-authored conference paper to LREC 2026.
+I have joined Laboratory for AI, Robotics, and Automation (LARA)! :sparkles: :smile:
