@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined Laboratory for AI, Robotics, and Automation (LARA)! :sparkles: :smile:
+I have started working as a Graduate Student Researcher at LARA
