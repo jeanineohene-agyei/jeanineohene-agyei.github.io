@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MS/PhD Student. <a href='https://www.ucdavis.edu/'>University of California, Davis</a>.
+subtitle: MS/PhD Student | <a href='https://www.ucdavis.edu/'>University of California, Davis</a>.
 
 profile:
   align: right
