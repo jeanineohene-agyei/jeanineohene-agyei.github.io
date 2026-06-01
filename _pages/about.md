@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MS/PhD Student | <a href='https://www.ucdavis.edu/'>University of California, Davis</a>.
+subtitle: MS Student | <a href='https://www.ucdavis.edu/'>University of California, Davis</a>.
 
 profile:
   align: right
@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an MS/PhD student in Computer Science at UC Davis, advised by [Prof. Iman Soltani](https://lara-soltani.com/people/iman-soltani) at the [Laboratory for AI, Robotics, and Automation (LARA)](https://lara-soltani.com/). I received my Honours Bachelor of Science in Computer Science and Mathematics from the University of Toronto in 2025, graduating with Distinction.
+I am an MS student in Computer Science at UC Davis, advised by [Prof. Iman Soltani](https://lara-soltani.com/people/iman-soltani) at the [Laboratory for AI, Robotics, and Automation (LARA)](https://lara-soltani.com/). I received my Honours Bachelor of Science in Computer Science and Mathematics from the University of Toronto in 2025, graduating with Distinction.
 
 My research focuses on developing machine learning methods for perception and spatial reconstruction problems. I am broadly interested in applied AI/ML, particularly in building algorithms that can reason about structure and uncertainty from real-world sensor data.
